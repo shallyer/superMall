@@ -1,5 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png"> 
+  你好
 </template>
 
 <script> 
